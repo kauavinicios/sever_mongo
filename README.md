@@ -2,8 +2,8 @@
 Neste repositório encontrase os desafios propostos pelo compasso.uol durante o estágio.
 
 ## Descrição do desafio 1
-###criar uma aplicação com uma imagem mongo no docker
-###Para subir um servidor Oracle Linux, sem interface gráfica.
+* criar uma aplicação com uma imagem mongo no docker
+* Para subir um servidor Oracle Linux, sem interface gráfica.
 
 1. Instalar 1 imagem Oracle Linux last stable version, para execução de atividades;
 2. Ajustar a rede da máquina virtual para um cidr/24, sob o protocolo IPv4, utilizando um range classe A.
@@ -31,8 +31,8 @@ O Docker é uma plataforma open source que facilita a criação e administraçã
 
 ## Descrição do desafio 2
 
-###Linux Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
-###Criar uma apresentação de slides com 1 slide para cada um dos topicos.
+* Linux Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
+* Criar uma apresentação de slides com 1 slide para cada um dos topicos.
 
 1. Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
 2. Mudar a VLAN das 2 para BRIGDE e fazer os ajustes necessarios;

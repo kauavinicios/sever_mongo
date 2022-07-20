@@ -7,7 +7,7 @@ Caso o Sistema Operacional da máquina seja Oracle Linux, não será necessário
 3. Executar o instalador para iniciar a instalação da VM. 
 4. HD de 60gb
 5. RAM 2gb
-6. Depois de instalada, já está pronta para ser utilizada. 
+6. Depois de criada, já está pronta para ser utilizada. 
 ## Oracle Linux
 1. Na ferramenta de buscas, pesquisar o site oficial de download do Oracle Linux: https://yum.oracle.com/oracle-linux-isos.html
 2. Baixar a última versão Full ISO.
