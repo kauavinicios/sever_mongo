@@ -19,6 +19,21 @@ Neste repositório encontrase os desafios propostos pelo compasso.uol durante o 
 12. Subir um Docker;
 13. Instalar uma imagem da aplicação mongoDB via Docker;
 
+## Descrição do desafio 2
+* Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
+* Criar uma apresentação de slides com 1 slide para cada um dos topicos.
+
+1. Subir uma segunda VM (seguindo as mesmasregras da atividade anterior);
+2. Mudar a VLAN das 2 para BRIGDE e fazer os ajustes necessarios;
+3. Criar uma apresentação de slides com 1 slide para cada um dos topicos:
+    - Qual o comando usado para criar um arquivo no linux?
+    - Explique as informações do comando lvdisplay
+    - Qual o comando usado para dar permissao de "leitura" apenas para o outros em um arquivo?
+    - O que faz o comando "toch arquivo01 >> arquivo02"?
+4. Configurar a relação de confiança entre as duas VMs;
+5. Fazer o versionamento da atividade;
+6. Fazer a documentação explicando o processo de instalação do Linux.
+
 ## Features
 ###  Oracle VM VirtualBox
 O VirtualBox é um programa de virtualização da Oracle que permite instalar e executar diferentes sistemas operacionais em um único computador sem complicações. Com ele, o usuário pode executar o Linux dentro do Windows 7, o Windows dentro do Mac, o Mac dentro do Windows e até mesmo todos os sistemas suportados dentro de um.
