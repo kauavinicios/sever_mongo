@@ -53,7 +53,7 @@ GATEWAY=192.168.100.1 (ip do roteador)
 2. na labmongodbancodocker(vm remota) va no mesmo arquivo hosts pelo comando `sudo vi /etc/hosts` e adicione as seguintes linhas.
 ```
 #ip da maquina vmlocal   nome
-192.168.100.110         vmlocal
+192.168.100.106         vmlocal
 #ip loopback            nome
 127.0.0.1               labmongodbancodocker 
 ```
